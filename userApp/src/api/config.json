@@ -1,0 +1,12 @@
+{
+  "serverURL":  "http://localhost:8080/api",
+  "api":{
+    "users":{
+      "create":"/users",
+      "update":"/users/",
+      "delete":"/users/",
+      "fetchOne":"/users/",
+      "fetchAll":"/users/"
+    }
+  }
+}
