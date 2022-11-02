@@ -1,0 +1,9 @@
+.active{
+    color: orange !important;
+}
+
+.navlink{
+    text-decoration: none;
+    margin: 2px 5px;
+    text-transform: uppercase;
+}
