@@ -1,0 +1,70 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": {
+        "first": "Topper",
+        "last": "Skills"
+      },
+      "mobile": "7875580668",
+      "email": "topperskills@gmail.com",
+      "city": "Pune",
+      "password": "abc123",
+      "status": 1
+    },
+    {
+      "id": 2,
+      "name": {
+        "first": "Bhagyesh",
+        "last": "Bodhe"
+      },
+      "mobile": "11111111",
+      "email": "bhagyesh@gmail.com",
+      "city": "Nagpur",
+      "password": "abc123",
+      "status": 1
+    },
+    {
+      "name": {
+        "first": "sachin",
+        "last": "jambhale"
+      },
+      "mobile": "8007834939",
+      "email": "sachinjambhale4939@gmail.com",
+      "password": "sachin@123",
+      "city": "kolhapur",
+      "status": 1,
+      "id": 3
+    }
+  ],
+  "products": [
+    {
+      "model": "aaa",
+      "price": "1111",
+      "brand": "xyz",
+      "desc": "sample aaa",
+      "id": 1
+    },
+    {
+      "model": "bbb",
+      "price": "22222",
+      "brand": "abc",
+      "desc": "sample bbb",
+      "id": 2
+    },
+    {
+      "model": "eeee",
+      "price": "5656",
+      "brand": "cde",
+      "desc": "bhbhb",
+      "id": 3
+    },
+    {
+      "model": "fffffff",
+      "price": "66566",
+      "brand": "fgh",
+      "desc": "vhjjj",
+      "id": 4
+    }
+  ]
+}
